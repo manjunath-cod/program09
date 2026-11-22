@@ -1,4 +1,4 @@
-from product import product_details
+from labprog9 import product_details
 
 
 def test_product_details():
